@@ -1,0 +1,65 @@
+
+
+p{
+    font-size: 20px;
+    color:black;
+    font-style: sans-serif;
+    
+}
+h6{
+    font-size: 27px;
+    font-weight: bold;
+    font-style: italic;
+}
+li{
+    font-size: 27px;
+    font-style: verdana
+    ;
+    
+}
+h5{
+    font-size: 27px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+h3{
+    font-size: 27px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+p2{
+    font-size: 25px;
+
+}
+.section{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.classname{
+    font-size: 15px;
+    color:black;
+}
+.underline{
+    height: 05px;
+    width: 10rem;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.image {
+    align-items: center;
+    margin-left: 10rem;
+    height: 500px;
+    
+}
+img{
+    height:500px ;
+    width: 800px;
+}
+#box1{
+    border: 2px solid black;
+    border-radius: 10px ;
+
+}
